@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juliajoswig
 - 👀 I’m interested in plant traits | gap-filling | soil health | sustainability
 - 🌱 I’m currently learning python | usage of remote sensing data for functional diversity research.
-- 💞️ I’m looking to collaborate on citizen science | biodiversity | science communication with story telling.
+- 💞️ I’m looking to collaborate on biodiversity | citizen science | science communication with story telling.
 - 📫 How to reach me: juliajoswigjj[at]gmail.com
 
 <!---
