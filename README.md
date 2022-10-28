@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @juliajoswig
 - 👀 I’m interested in plant traits | gap-filling | soil health | sustainability
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: julia.joswig[at]geo.uzh.ch
+- 🌱 I’m currently learning python | usage of remote sensing data for functional diversity research.
+- 💞️ I’m looking to collaborate on citizen science | biodiversity | science communication with story telling.
+- 📫 How to reach me: juliajoswigjj[at]gmail.com
 
 <!---
 juliajoswig/juliajoswig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
